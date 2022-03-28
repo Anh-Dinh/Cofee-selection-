@@ -1,2 +1,2 @@
-# Cofee-selection-
+# Cofee-selection
 Create selection app using SQLite 
